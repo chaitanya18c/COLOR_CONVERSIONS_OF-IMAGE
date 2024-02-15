@@ -27,8 +27,8 @@ Anaconda - Python 3.7
 
 ##### Program:
 ```
-### Developed By: DEEPIKA S
-### Register Number: 212222230028
+### Developed By: CHAITANYA P S
+### Register Number: 212222230024
 ```
 <table>
   <tr>
